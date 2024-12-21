@@ -1,8 +1,6 @@
 <h1 align="center">I'm Golanukonda Nandu</h1>
 <h3 align="center">I'm currently learning the web deveploment and doing projects .</h3>
 
-<p align="left"> <img
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandurajak" alt="nandurajak" /></a> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,JS**
